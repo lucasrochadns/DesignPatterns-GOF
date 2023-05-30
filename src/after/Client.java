@@ -1,8 +1,10 @@
-import factory.IPhone11Factory;
-import factory.IPhoneFactory;
-import factory.IPhoneXFactory;
-import factory.IPhoneXSMaxFactory;
-import model.IPhone;
+package after;
+
+import after.factory.IPhone11Factory;
+import after.factory.IPhoneFactory;
+import after.factory.IPhoneXFactory;
+import after.factory.IPhoneXSMaxFactory;
+import after.model.IPhone;
 
 public class Client {
 	

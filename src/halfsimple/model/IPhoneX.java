@@ -1,4 +1,4 @@
-package model;
+package halfsimple.model;
 
 public class IPhoneX extends IPhone {
 

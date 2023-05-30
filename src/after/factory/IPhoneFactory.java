@@ -1,7 +1,7 @@
-package factory;
+package after.factory;
 
 
-import model.IPhone;
+import after.model.IPhone;
 
 public abstract class IPhoneFactory {
 

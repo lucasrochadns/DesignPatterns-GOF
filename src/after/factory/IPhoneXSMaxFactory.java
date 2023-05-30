@@ -1,8 +1,8 @@
-package factory;
+package after.factory;
 
 
-import model.IPhone;
-import model.IPhoneXSMax;
+import after.model.IPhone;
+import after.model.IPhoneXSMax;
 
 public class IPhoneXSMaxFactory extends IPhoneFactory {
 

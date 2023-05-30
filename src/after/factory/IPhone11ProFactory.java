@@ -1,8 +1,8 @@
-package factory;
+package after.factory;
 
 
-import model.IPhone;
-import model.IPhone11Pro;
+import after.model.IPhone;
+import after.model.IPhone11Pro;
 
 public class IPhone11ProFactory extends IPhoneFactory {
 

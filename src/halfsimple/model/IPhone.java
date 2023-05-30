@@ -1,4 +1,4 @@
-package model;
+package halfsimple.model;
 
 public abstract class IPhone {
 	
